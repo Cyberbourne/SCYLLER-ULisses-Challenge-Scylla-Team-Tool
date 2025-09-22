@@ -1,9 +1,12 @@
-# 🌊 Ross Sea Lagrangian Simulator - SCYLLER 
+SCYLLER — Exploratory & Simulation Tool of Contamination Dispersion
 
-This notebook simulates the movement of particles in the **Ross Sea** using real ocean current data (`uo`, `vo`) from the **Copernicus Marine Environment Monitoring Service (CMEMS)**.
+Exploratory and numerical modeling of particle drift (microplastics/pellets) using COPERNICUS (CMEMS): surface currents and Antarctic polar projection visualization. Includes:
 
-- **Author**: Raúl Galdeano Pazos  
-- **Date**: July 2025  
-- **Objective**: Visualize the drift of floating particles over several days using 6-hour interval velocity fields and save the animation as a `.gif`.
+Exploratory map of ports/stations near a disaster (Folium).
+
+2D Lagrangian simulation with uo/vo and KDE (density) fields animated on Cartopy.
+
+Author: Raúl Galdeano Pazos (ULisses 2025)
+Contact: raulgaldeanopazos@gmail.com
 ---
 
